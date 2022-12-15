@@ -8,7 +8,7 @@ class Solution {
     }
 }
 
-// Solution 2
+// Solution 2 using Two Pointer Approach
 class Solution {
     public int[] sortedSquares(int[] nums) {
         int n = nums.length;
