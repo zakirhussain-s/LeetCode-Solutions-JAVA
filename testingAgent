@@ -1,0 +1,8 @@
+class Solution {
+    public void checkSomething() {
+      String s = null;
+      if(s.equals("foo")) {
+        System.out.println("foo");
+    }
+}
+}
